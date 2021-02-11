@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/student/Desktop/lab/lab05_nou_skel/lab05_nou_skel/contor_test_isim_beh.exe" -prj "C:/Users/student/Desktop/lab/lab05_nou_skel/lab05_nou_skel/contor_test_beh.prj" "work.contor_test" "work.glbl" 
