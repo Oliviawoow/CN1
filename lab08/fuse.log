@@ -1,0 +1,34 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/test_ual_isim_beh.exe -prj C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/test_ual_beh.prj work.test_ual work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/half_adder.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/full_adder.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/adder.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/substractor.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/multiplier.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/ual.v" into library work
+Analyzing Verilog file "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/test_ual.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/ual.v" Line 34: Port Cout is not connected to this instance
+WARNING:HDLCompiler:1016 - "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/substractor.v" Line 13: Port Cout is not connected to this instance
+WARNING:HDLCompiler:189 - "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/substractor.v" Line 13: Size mismatch in connection of port <S>. Formal port size is 8-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:1016 - "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/multiplier.v" Line 15: Port Cout is not connected to this instance
+WARNING:HDLCompiler:189 - "C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/multiplier.v" Line 15: Size mismatch in connection of port <S>. Formal port size is 8-bit while actual signal size is 4-bit.
+Completed static elaboration
+Compiling module half_adder
+Compiling module full_adder
+Compiling module adder
+Compiling module subtractor
+Compiling module multiplier
+Compiling module ual
+Compiling module test_ual
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 5 sub-compilation(s) to finish...
+Compiled 8 Verilog Units
+Built simulation executable C:/Users/student/Desktop/lab/lab08_skel/lab08_skel/test_ual_isim_beh.exe
+Fuse Memory Usage: 29672 KB
+Fuse CPU Usage: 608 ms
