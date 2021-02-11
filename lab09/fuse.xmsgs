@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 17: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 18: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 19: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 20: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 21: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 22: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/cpu.v" Line 54: Target &lt;<arg fmt="%s" index="1">tmp</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 17: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 18: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 19: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 20: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 21: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="327" delta="unknown" >"C:/Users/student/Desktop/lab/lab09_skel/lab09_skel/memory.v" Line 22: Concatenation with unsized literal; will interpret as 32 bits
+</msg>
+
+</messages>
+
